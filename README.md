@@ -1,4 +1,4 @@
 # Kodluyoruz İlk Repo
 
-Bu Repo [Kodluyoruz](https://kodluyoruz.com)
+Bu Repo [Kodluyoruz](https://kodluyoruz.org)
 # Zarganalara ölüm
