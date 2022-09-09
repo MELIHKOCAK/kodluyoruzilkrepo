@@ -1,3 +1,3 @@
 # Kodluyoruz İlk Repo
 
-Bu Repo [Kodluyoruz.com](kodluyoruz)
+Bu Repo [Kodluyoruz](https://kodluyoruz.com)
